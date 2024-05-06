@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/ahmed/projects/ros1_examples/devel -DCMAKE_INSTALL_PREFIX=/home/ahmed/projects/ros1_examples/install -G Unix Makefiles
